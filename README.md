@@ -16,12 +16,12 @@ observability, security hardening, and backup/recovery.
 **Roster:**
 
 | Name |
-|  Hope Nelson       |
-| Idiris Ismacil     |
-| Adirahman Mohamed  |
-| Sumaya Salad       |
-| Mohamed Omer       |
-| Minnie Saengthao   |
+|--Hope Nelson-------|
+|--Idiris Ismacil----|
+|-Adirahman Mohamed--|
+|-Sumaya Salad-------|
+|-Mohamed Omer-------|
+|-Minnie Saengthao---|
 
 See `team-charter.md` for role assignments and the 7-sprint rotation schedule.
 
