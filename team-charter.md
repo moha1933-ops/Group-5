@@ -2,18 +2,20 @@
 
 ## Team Identity
 
-**Team Name:** [To be filled in]
+**Team Name:** Group 5
 
-**Team Number:** [Provided by professor]
+**Team Number:** 5
 
 **Full Roster:**
 
 | Name | Role (Sprint 1) |
 |------|-----------------|
-| | |
-| | |
-| | |
-| | |
+| Mohamed | Scrum Master |
+| Sumaya | System Admin|
+| Hope | QA |
+| Abdirahman | Developer|
+| Minnie | Developer|
+| Idiris | Developer|
 
 ## Role One-Sentence Descriptions
 
